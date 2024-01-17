@@ -4,12 +4,12 @@
 MS CS @ USC
 
 ## Work Experience
-ICT
-Cisco
-BARC
+- ICT
+- Cisco
+- BARC
 
 ## Projects
-Inbox
-Yelp
-Event Search
-Movie Recomm
+- Inbox
+- Yelp
+- Event Search
+- Movie Recomm
