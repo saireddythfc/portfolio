@@ -5,16 +5,19 @@
 - Bachelor of Engineering, Computer Engineering @ Mumbai University (Nov 2020)
 
 ## Work Experience
-**Research Coordinator, Institute for Creative Technologies**
+**Research Coordinator, Institute for Creative Technologies (Feb 2023 - May 2023)**
   - Coordinated ...
 
-**Student Worker, Institute for Creative Technologies**
+**Student Worker, Institute for Creative Technologies (May 2022 - Dec 2022)**
   - SLATS
 
-**Intern, Startup Idea Formulation, Cisco ThingQubator Program**
+**Teaching Assistant, University of Southern California (Aug 2021 - Dec 2022)**
+  - Intro to Data Analytics, Intro to AI
+
+**Intern, Startup Idea Formulation, Cisco ThingQubator Program (Jun 2020 - Jul 2020)**
   - RAISR
 
-**Project Trainee, Bhabha Atomic Research Center**
+**Project Trainee, Bhabha Atomic Research Center (Aug 2019 - Feb 2020)**
   - AQI
 
 ## Projects
