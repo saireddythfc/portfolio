@@ -7,10 +7,13 @@
 ## Work Experience
 **Research Coordinator, Institute for Creative Technologies**
   - Coordinated ...
+
 **Student Worker, Institute for Creative Technologies**
   - SLATS
+
 **Intern, Startup Idea Formulation, Cisco ThingQubator Program**
   - RAISR
+
 **Project Trainee, Bhabha Atomic Research Center**
   - AQI
 
