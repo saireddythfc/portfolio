@@ -47,3 +47,12 @@
 **AQI: Study**
 
 **FaceCognize: CCTV footage face recognition**
+
+
+## Open Source Interests
+**Llama**
+**Stockfish**
+**Langchain**
+
+## Volunteer
+
