@@ -1,7 +1,7 @@
-# Software Developer
+# Software Engineer | API Developer | AI Engineer
 
 ### Summary: Aspiring software engineer with a taste for entrepreneurship, looking to upskill in AI
-### Motto: Innovation is bound to happen when 2 different disciplines intertwine, hence looking forward to building something at the intersection of Data/AI and Sports/Music/Entertainment.
+### Motto: Innovation is bound to happen when 2 different disciplines intertwine, looking forward to building something at the intersection of Data/AI and Sports/Music/Entertainment.
 
 ## Education
 - Master of Science, Computer Science @ University of Southern California (Dec 2022)
@@ -24,7 +24,21 @@
   - AQI
 
 ## Projects
-- Inbox
-- Yelp
-- Event Search
-- Movie Recomm
+**Talk to your box (Langchain, Python, OpenAI API, Gmail API)**
+  - Gmail chatbot, email inbox analysis.
+
+**Yelp Data Analysis (Spark, Python)**
+  - Biz. reviews reommendations
+
+**Event Search (Angular, TypeScript, Node.js, Twitter API, Spotify API, Ticketmaster API)**
+  - Search for events.
+
+**Amazon Reviews Sentiment Analyzer(Pytorch, NLTK)**
+  - Sentiment analysis for Amazon Reviews
+
+## Publications
+**AQI: Study**
+  - Assess
+
+**FaceCognize: CCTV footage face recognition**
+  - Feasible
