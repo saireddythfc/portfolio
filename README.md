@@ -1,4 +1,4 @@
-# AI Engineer
+# Software Developer
 
 ## Education
 - Master of Science, Computer Science @ University of Southern California (Dec 2022)
