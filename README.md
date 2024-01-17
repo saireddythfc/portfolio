@@ -1,7 +1,7 @@
 # Software Developer
 
-Summary: Aspiring software engineer with a taste for entrepreneurship, looking to upskill in AI
-Motto: Innovation is bound to happen when 2 different disciplines intertwine, hence looking forward to building something at the intersection of Data/AI and Sports/Music/Entertainment.
+### Summary: Aspiring software engineer with a taste for entrepreneurship, looking to upskill in AI
+### Motto: Innovation is bound to happen when 2 different disciplines intertwine, hence looking forward to building something at the intersection of Data/AI and Sports/Music/Entertainment.
 
 ## Education
 - Master of Science, Computer Science @ University of Southern California (Dec 2022)
