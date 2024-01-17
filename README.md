@@ -50,9 +50,7 @@
 
 
 ## Open Source Interests
-**Llama**
-**Stockfish**
-**Langchain**
+- Llama | Langchain | Stockfish
 
 ## Volunteer
 
