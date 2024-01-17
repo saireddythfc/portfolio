@@ -2,6 +2,7 @@
 
 ### Summary
   - #### Aspiring software engineer with a taste for entrepreneurship, looking to upskill in AI
+
 ### Motto
   - #### Innovation is bound to happen when 2 different disciplines intertwine, looking forward to building something at the intersection of Data/AI and Sports/Music/Entertainment.
 
