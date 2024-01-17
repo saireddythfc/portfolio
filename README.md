@@ -5,7 +5,7 @@
 - Bachelor of Engineering, Computer Engineering @ Mumbai University (Nov 2020)
 
 ## Work Experience
-** Research Coordinator, Institute for Creative Technologies≈
+** Research Coordinator, Institute for Creative Technologies
   - Coordinated ...
 ** Student Worker, Institute for Creative Technologies
   - SLATS
