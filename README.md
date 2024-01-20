@@ -1,29 +1,29 @@
 # Software Engineer | API Developer | AI Engineer
 
-### Summary
+## Summary
   - #### Aspiring software engineer with a taste for entrepreneurship, looking to upskill in AI
 
-### Motto
+## Motto
   - #### Innovation is bound to happen when 2 different disciplines intertwine, looking forward to building something at the intersection of Data/AI and Sports/Music/Entertainment.
 
 
 ## Education
-- Master of Science, Computer Science @ University of Southern California (Dec 2022)
-- Bachelor of Engineering, Computer Engineering @ Mumbai University (Nov 2020)
+- Master of Science, Computer Science @ University of Southern California (Jan 2021 - Dec 2022)
+- Bachelor of Engineering, Computer Engineering @ Mumbai University (Aug 2016 - Nov 2020)
 
 
 ## Work Experience
-**Research Coordinator, Institute for Creative Technologies (Learning Sciences) (Feb 2023 - May 2023)**
+**Research Coordinator, Institute for Creative Technologies [Learning Sciences Lab] (Feb 2023 - May 2023)**
   - Coordinated the research initiative, ”teach AI how to teach AI”, focused on integrating PAL3 learning app, enhancing personalized AI-driven tutoring and increase class participation by 20%.
 
-**Research Assistant, Institute for Creative Technologies (Mixed Reality Labs) (Jun 2022 - Jul 2022)**
+**Research Assistant, Institute for Creative Technologies [Mixed Reality Labs] (Jun 2022 - Jul 2022)**
   - Assisted in setting up data collection efforts, VR experiences and educational interviews at La Brea tar pits for 250 volunteers presenting Ice Age in Los Angeles.
 
-**Student Worker, Institute for Creative Technologies (May 2022 - Dec 2022)**
+**Student Worker, Institute for Creative Technologies [Learning Sciences Lab] (May 2022 - Dec 2022)**
   - Developed semi-supervised machine learning model for predicting team performance based on LRS data.
   - Engineered automated ETL pipelines, converting 10000 MongoDB collections into well-structured Pandas DataFrames for seamless analysis.
 
-**###Teaching Assistant, University of Southern California (Aug 2021 - Dec 2022)**
+**###Teaching Assistant, University of Southern California [Information Technology Program] (Aug 2021 - Dec 2022)**
   - Foundations of Artificial Intelligence: Facilitate learning of topics in AI for over 30 students.
   - Introduction to Data Analytics: Facilitate learning of topics in Data analytics and viz. for over 300 students.
   - 
