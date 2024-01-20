@@ -37,13 +37,13 @@
 
 ## Projects
 **Talk to your box (Langchain, Python, OpenAI API, Gmail API)**
-  - Orchestrated ChatGPT-based LLM chatbot that reads, analyzes and drafts emails in inbox for Gmail users.
+  - Orchestrated ChatGPT-based LLM chatbot that reads, analyzes and drafts emails in inbox for Gmail users leveraging OpenAI multi-agent and zero-shot tuning.
 
 **Yelp Data Analysis (Spark, Python)**
   - Developed hybrid recommendation system using Item-Based Collaborative Filtering and xGBRegressor model on 100K yelp reviews predicting user reviews with 70% accuracy.
 
 **Event Search (Angular, TypeScript, Node.js, Twitter API, Spotify API, Ticketmaster API)**
-  - Deployed MEAN-stack web app on Google Cloud App Engine integrating Twitter, Spotify, Google Maps APIs.
+  - Deployed MEAN-stack web app on Google Cloud App Engine integrating Twitter, Spotify, Google Maps APIs with average response time on sub 1s.
 
 **Amazon Reviews Sentiment Analyzer(Pytorch, NLTK)**
   - Implemented PyTorch Neural Networks for sentiment classification on Amazon reviews with 70% accuracy.
