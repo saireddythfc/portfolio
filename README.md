@@ -23,7 +23,7 @@
   - Developed semi-supervised machine learning model for predicting team performance based on LRS data.
   - Engineered automated ETL pipelines, converting 10000 MongoDB collections into well-structured Pandas DataFrames for seamless analysis.
 
-**###Teaching Assistant, University of Southern California [Information Technology Program] (Aug 2021 - Dec 2022)**
+**Teaching Assistant, University of Southern California [Information Technology Program] (Aug 2021 - Dec 2022)**
   - Foundations of Artificial Intelligence: Facilitate learning of topics in AI for over 30 students.
   - Introduction to Data Analytics: Facilitate learning of topics in Data analytics and viz. for over 300 students.
 
