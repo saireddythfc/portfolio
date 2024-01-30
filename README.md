@@ -24,8 +24,8 @@
   - Engineered automated ETL pipelines, converting 10000 MongoDB collections into well-structured Pandas DataFrames for seamless analysis.
 
 **Teaching Assistant, University of Southern California [Information Technology Program] (Aug 2021 - Dec 2022)**
-  - Foundations of Artificial Intelligence: Facilitate learning of topics in AI for over 30 students.
-  - Introduction to Data Analytics: Facilitate learning of topics in Data analytics and viz. for over 300 students.
+  - Introduction to Artificial Intelligence - ITP 259: Facilitate learning of topics in AI for over 30 students.
+  - Introduction to Data Analytics - ITP 249: Facilitate learning of topics in Data analytics and viz. for over 300 students.
 
 **Intern, Startup Idea Formulation, Cisco ThingQubator Program [IEEE 2021](https://ieeexplore.ieee.org/document/9544851) (Jun 2020 - Jul 2020)**
   - Implemented single image super-resolution pipeline using Google’s RAISR, improving input image resolution reducing bilinear polarity by 50%.
