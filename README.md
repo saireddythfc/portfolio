@@ -27,17 +27,17 @@
   - Introduction to Artificial Intelligence - ITP 259: Facilitate learning of topics in AI for over 30 students.
   - Introduction to Data Analytics - ITP 249: Facilitate learning of topics in Data analytics and viz. for over 300 students.
 
-**Intern, Startup Idea Formulation, Cisco ThingQubator Program [IEEE 2021](https://ieeexplore.ieee.org/document/9544851) (Jun 2020 - Jul 2020)**
+**Intern, Startup Idea Formulation, Cisco ThingQubator Program [ASIANCON 2021](https://ieeexplore.ieee.org/document/9544851) (Jun 2020 - Jul 2020)**
   - Implemented single image super-resolution pipeline using Google’s RAISR, improving input image resolution reducing bilinear polarity by 50%.
   - Integrated advanced ML algorithms like XGBoost, SVM, and K-Means deriving predictions from face embeddings, contributing to 30% input data to 90% accurate soft-voting classifier.
 
-**Project Trainee, Bhabha Atomic Research Center [IEEE 2021](https://ieeexplore.ieee.org/document/9544851) (Aug 2019 - Feb 2020)**
+**Project Trainee, Bhabha Atomic Research Center [CONIT 2021](https://ieeexplore.ieee.org/document/9544851) (Aug 2019 - Feb 2020)**
   - Streamlined Air Quality Index predictive system using ARIMA and LSTMs on 10-year time-series data.
 
 
 ## Projects
 **Talk to the box [Github](https://github.com/saireddythfc/Talk-to-the-box) (Langchain, Python, OpenAI API, Gmail API)**
-  - Orchestrated ChatGPT-based LLM chatbot that reads, analyzes and drafts emails in inbox for Gmail users leveraging OpenAI multi-agent and zero-shot tuning.
+  - Orchestrated ChatGPT-based LLM agent that reads, analyzes and drafts emails in inbox for Gmail users leveraging OpenAI multi-agent and zero-shot tuning.
 
 **Yelp Data Analysis (Spark, Python)**
   - Developed hybrid recommendation system using Item-Based Collaborative Filtering and xGBRegressor model on 100K yelp reviews predicting user reviews with 70% accuracy.
